@@ -1,0 +1,297 @@
+title:Destiny Season 24
+description:God Rolls as procured from Light.gg
+
+// Crimil's Dagger - Crimil's Dagger (Curated) ()
+//notes: Masterworked: 
+dimwishlist:item=198854575&perks=1392496348,4134353779,3828510309,1015611457,3989629871
+dimwishlist:item=198854575&perks=1392496348,4134353779,3828510309,1015611457,1607056502
+
+
+// Speleologist - Speleologist (Curated) ()
+//notes: Masterworked: 
+dimwishlist:item=412251536&perks=3250034553,3177308360,3993379141,365154968,253121539
+
+
+// Controlling Vision - Controlling Vision ()
+//notes: Masterworked: Handling
+dimwishlist:item=423343404&perks=839105230,2420895100,1195158366,3708227201,43555494
+
+
+// Critical Anomaly - Critical Anamoly PvE ()
+dimwishlist:item=445197843&perks=839105230,3142289711,1523832109,3078487919,1878756191
+
+
+// Truthteller - Truthteller ()
+//notes: Masterworked: Blast Radius
+dimwishlist:item=447296102&perks=1478423395,3032599245,2779035018,776531651,43555494
+
+
+// Bold Endings - Bold Endings PvE ()
+dimwishlist:item=496728945&perks=839105230,3142289711,124408337,2848615171,1988485648
+
+
+// Forthcoming Deviance - Forthcoming Deviance  ()
+dimwishlist:item=535198113&perks=1263609309,2420895100,1523832109,3640170453,1878756191
+
+
+// Forbearance - Forbearance ()
+//notes: Masterworked: Blast Radius
+dimwishlist:item=568611921&perks=3809316345,2822142346,1906147653,598607952,2489430594
+
+
+// The Mountaintop - The Mountaintop  ()
+//notes: Masterworked: Blast Radius
+dimwishlist:item=568611922&perks=981914802,3301904089,3300816228,469285294,2489430594
+
+
+// Edge Transit - Edge Transit PvE ()
+//notes: Masterworked: Handling
+dimwishlist:item=568611923&perks=1478423395,3301904089,424370782,3744057135,2489430594
+
+
+// Nullify - Nullify ()
+//notes: Masterworked: Handling
+dimwishlist:item=859869931&perks=839105230,3142289711,3824105627,4293542123,1878756191
+
+
+// The Recluse - Recluse ()
+//notes: Masterworked: Handling
+dimwishlist:item=1050806815&perks=839105230,1885400500,776531651,2048641572,2489430594
+
+
+// Timeworn Wayfarer - Timeworn Wayfarer ()
+//notes: Masterworked: Range
+dimwishlist:item=1058098236&perks=3661387068,3177308360,25606670,555281244,253121539
+
+
+// Lost Signal - Lost Signal ()
+//notes: Masterworked: Blast Radius
+dimwishlist:item=1197771438&perks=981914802,2822142346,1961144892,855168139,253121539
+
+
+// Maahes HC4 - Maahes HC4 ()
+//notes: Masterworked: Handling
+dimwishlist:item=1246793994&perks=839105230,3142289711,776531651,2048641572,2839173408
+
+
+// Imminence - Imminence ()
+dimwishlist:item=1258168956&perks=839105230,3142289711,923806249,3640170453,1878756191
+
+
+// Perfect Paradox - Perfect Paradox (Curated) ()
+dimwishlist:item=1298672084&perks=1047830412,3142289711,1126264488,1451849462,2838996248
+
+
+// Hung Jury SR4 - Hung Jury SR4 ()
+//notes: Masterworked: Handling
+dimwishlist:item=1453235079&perks=839105230,3142289711,3891536761,3824105627,2489430594
+
+
+// Non-Denouement - Non-Denouement ()
+//notes: Masterworked: Stability
+dimwishlist:item=1770490683&perks=3768438372,2154191829,201365942,2173046394,1878756191
+
+
+// No Hesitation - No Hesitation PvE ()
+//notes: Masterworked: Handling
+dimwishlist:item=1801007332&perks=839105230,3142289711,2980589453,4293542123,1988485648
+
+
+// Falling Guillotine - Falling Guillotine ()
+//notes: Masterworked: Impact
+dimwishlist:item=1815105249&perks=436053704,52780822,4104185692,2077819806,2489430594
+
+
+// Chronophage - Chronophage (Curated) ()
+//notes: Masterworked:
+dimwishlist:item=1886840007&perks=202670084,1483536627,3700496672,2048641572,253121539
+
+
+// Adverse Possession IX - Adverse Possession IX ()
+//notes: Masterworked: Range
+dimwishlist:item=1890332078&perks=839105230,3142289711,3643424744,4104185692,4008116374
+
+
+// Hammerhead - Hammerhead ()
+//notes: Masterworked: Handling
+dimwishlist:item=1896309757&perks=839105230,2420895100,3425386926,557221067,2489430594
+
+
+// D.F.A. (Adept) - D.F.A. PvE ()
+dimwishlist:item=2006308129&perks=4090651448,3142289711,1168162263,1954620775,1281216113
+
+
+// Shayura's Wrath - Shayura's Wrath ()
+//notes: Masterworked: Reload Speed
+dimwishlist:item=2022294213&perks=1840239774,1968497646,2541826827,1523649716,2988596335
+
+
+// Corrasion - Corrasion ()
+//notes: Masterworked: 
+dimwishlist:item=2126178511&perks=1840239774,2420895100,2213355989,2896038713,253121539
+
+
+// Aberrant Action - Aberrant Action (Curated)  ()
+//notes: Masterworked: Handling
+dimwishlist:item=2198166292&perks=3809316345,1087426260,2010801679,563069569,253121539
+
+
+// The Steady Hand - The Steady Hand ()
+//notes: Masterworked: Range
+dimwishlist:item=2220884262&perks=1926090095,1885400500,706527188,957782887
+
+
+// Shadow Price - Shadow Price ()
+//notes: Masterworked: 
+dimwishlist:item=2322926844&perks=839105230,3142289711,3436462433,4049631843,1281216113
+dimwishlist:item=2322926844&perks=839105230,3142289711,3436462433,4049631843,744217850
+
+
+// Breachlight - Breachlight PvE ()
+dimwishlist:item=2328923181&perks=839105230,3142289711,3523296417,831391274,2838996248
+
+
+// Sightline Survey - Sightline Survey ()
+//notes: Masterworked: Handling
+dimwishlist:item=2350330520&perks=839105230,3142289711,3400784728,2173046394,253121539
+
+
+// Blast Furnace - Blast Furnace ()
+//notes: Masterworked: Handling
+dimwishlist:item=2372514508&perks=839105230,3142289711,3891536761,3824105627,2489430594
+
+
+// Elsie's Rifle - Elsie's Rifle ()
+//notes: Masterworked: Range
+dimwishlist:item=2372514509&perks=839105230,1885400500,1748774930,460017080,2489430594
+
+
+// Line in the Sand - Line in the Sand (Curated) ()
+dimwishlist:item=2450049485&perks=3250034553,689005463,588594999,47981717,2838996248
+
+
+// Martyr's Retribution - Martyr's Retribution (Curated) ()
+dimwishlist:item=2584830733&perks=1478423395,2822142346,3523296417,880644845,2838996248
+
+
+// Scintillation - Scintillation (Curated) ()
+//notes: Masterworked: Reload Speed
+dimwishlist:item=2591257541&perks=1467527085,3868766766,247725512,831391274,1281216113
+dimwishlist:item=2591257541&perks=1467527085,3868766766,247725512,831391274,744217850
+dimwishlist:item=2591257541&perks=1467527085,3868766766,247725512,831391274,3988215619
+
+
+// Midnight Coup - Midnight Coup PvE (god-pve)
+//notes: Masterworked: Handling tags:god-pve
+dimwishlist:item=2763843898&perks=839105230,3142289711,3038247973,1549370717,2489430594
+
+
+// Luna's Howl - Luna's Howl ()
+//notes: Masterworked: Range
+dimwishlist:item=2763843899&perks=4090651448,1968497646,3017780555,4293542123,2489430594
+
+
+// The Domino - The Domino ()
+//notes: Masterworked: Stability
+dimwishlist:item=2800870005&perks=839105230,3142289711,1820235745,4293542123,2509860981
+
+
+// Embraced Identity - Embraced Identity PvE ()
+dimwishlist:item=2821677368&perks=839105230,3142289711,3418782618,555281244,1988485648
+
+
+// Origin Story - Origin Story ()
+//notes: Masterworked: Handling
+dimwishlist:item=2826850739&perks=839105230,2420895100,1906147653,3891536761,744217850
+
+
+// Someday - Someday PvE ()
+dimwishlist:item=3232203524&perks=1332244541,791862061,1126264488,47981717,1988485648
+
+
+// Perfect Pitch - Perfect Pitch (Place holder) ()
+//notes: Masterworked: 
+dimwishlist:item=3276304504&perks=1482024992,679225683,1820235745,4293542123,515704826
+dimwishlist:item=3276304504&perks=1482024992,679225683,1820235745,4293542123,4091460919
+dimwishlist:item=3276304504&perks=1482024992,679225683,1820235745,4293542123,744217850
+
+
+// Indebted Kindness - Indebted Kindness PvE ()
+//notes: Masterworked: Stability
+dimwishlist:item=3381450498&perks=1478423395,106909392,2859149211,2173046394,220689851
+
+
+// Summum Bonum - Summum Bonum ()
+//notes: Masterworked: Impact
+dimwishlist:item=3569407878&perks=436053704,52780822,1749209109,3640170453,1878756191
+
+
+// Pro Memoria - Pro Memoria PvE ()
+//notes: Masterworked: Range
+dimwishlist:item=3605603507&perks=839105230,2420895100,1523832109,3078487919,1988485648
+
+
+// Succession - Succession ()
+//notes: Masterworked: Range
+dimwishlist:item=3612338554&perks=839105230,3142289711,1523832109,1546637391,2489430594
+
+
+// Suspectum-4fr - Suspectum-4fr ()
+//notes: Masterworked: Reload Speed
+dimwishlist:item=3615421669&perks=839105230,689005463,968510818,555281244,3988215619
+
+
+// Veiled Threat - Veiled Threat PvE ()
+dimwishlist:item=3685470415&perks=839105230,3142289711,880644845,124408337,253121539
+
+
+// The Riposte - The Riposte (Curated) ()
+//notes: Masterworked: Stability
+dimwishlist:item=3754408118&perks=3250034553,1561002382,2450788523,2610012052,4259401308
+
+
+// Ill Omen - Ill Omen ()
+//notes: Masterworked: Impact
+dimwishlist:item=3794274730&perks=436053704,52780822,4183521337,781192741,253121539
+
+
+// The Call - The Call PvE ()
+//notes: Masterworked: Blast Radius
+dimwishlist:item=3947966653&perks=1478423395,106909392,2859149211,831391274,1988485648
+dimwishlist:item=3947966653&perks=1478423395,106909392,2859149211,1546637391,1988485648
+
+
+// Yarovit MG4 - Yarovit MG4 ()
+//notes: Masterworked: Handling
+dimwishlist:item=3959549446&perks=839105230,2420895100,3418782618,124408337,2839173408
+
+
+// Hush - Hush ()
+//notes: Masterworked: Handling
+dimwishlist:item=3962575203&perks=3768438372,2154191829,3523746922,2675184851,515704826
+
+
+// Aisha's Care - Aisha's Care ()
+//notes: Masterworked: Handling
+dimwishlist:item=3969379530&perks=1840239774,1885400500,3619207468,3324494224,2988596335
+
+
+// Better Devils - Better Devils ()
+//notes: Masterworked: Stability
+dimwishlist:item=4152016199&perks=839105230,3142289711,247725512,3038247973,4091460919
+
+
+// Faith-Keeper - Faith-Keeper ()
+//notes: Masterworked: Handling
+dimwishlist:item=4195186942&perks=1478423395,2985827016,3300816228,3194351027,253121539
+
+
+// False Idols - False Idols PvE ()
+dimwishlist:item=4207120603&perks=436053704,52780822,4293542123,2396489472,1988485648
+
+
+// Marcato-45 - Marcato-45 PvE ()
+//notes: Masterworked: Handling
+dimwishlist:item=4233375372&perks=839105230,3142289711,923806249,831391274,4008116374
+
+
